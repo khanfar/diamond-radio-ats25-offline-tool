@@ -16,6 +16,9 @@ private and the Windows application is distributed as freeware; see
   `DSEG7-OFL.txt`.
 - NASA Blue Marble imagery: imagery courtesy of NASA Earth Observatory; NASA
   imagery is not copyrighted.
+- EiBi broadcast schedule: Eike Bierwirth, eibispace.de. EiBi expressly permits
+  use, copying, distribution and inclusion in third-party software. Source date,
+  database hash and the preserved conditions are in `legal/EIBI-NOTICE.txt`.
 
 ## Offline Windows application
 

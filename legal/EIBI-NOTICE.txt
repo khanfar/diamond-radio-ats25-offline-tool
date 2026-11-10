@@ -1,0 +1,20 @@
+EiBi broadcast schedule database
+================================
+
+The bundled EIBI.DAT database is derived from the official public EiBi
+shortwave broadcast schedule compiled by Eike Bierwirth.
+
+Source: https://www.eibispace.de/
+Schedule source date: October 4, 2026
+Bundled database: 9,541 records, 286,230 bytes
+SHA-256: 4bfaa94c713d660445b92672b463620ab23f2f3a11dc306e27e3759f88191f64
+
+EiBi conditions of use:
+"All my frequency lists are free of cost, and any person is absolutely free
+to download, use, copy, or distribute these files or to use them within
+third-party software."
+
+EiBi schedule information may contain mistakes, omissions or outdated entries.
+Eike Bierwirth provides no warranty for identification, log or reception
+reports based on the lists. The database is bundled unchanged in the Diamond
+Radio record format; EiBi is not affiliated with Diamond Radio.

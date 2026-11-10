@@ -5,17 +5,17 @@ Official offline Windows installer and maintenance tool for **Diamond Radio ATS-
 - Product and Diamond-specific modifications: **M Khanfar**
 - Distribution: **freeware**; Diamond-specific source code is not distributed
 - Official website: **[diamondradio.web.app/install.html](https://diamondradio.web.app/install.html)**
-- Current tool version: **1.0.0**
+- Current tool version: **1.1.0**
 - Bundled firmware: **Diamond Radio v1.1.1 BETA**
 
 ## Download
 
 Open **[Releases](https://github.com/khanfar/diamond-radio-ats25-offline-tool/releases/latest)** and choose:
 
-- **DiamondRadio-ATS25Tool-v1.0.0-Windows.zip** — recommended package with the EXE, usage information, and legal notices.
+- **DiamondRadio-ATS25Tool-v1.1.0-Windows.zip** — recommended package with the EXE, usage information, and legal notices.
 - **DiamondRadio-ATS25Tool.exe** — standalone Windows application.
 
-No Python installation, account, internet connection, or website access is needed to use the tool. All supported firmware images are already embedded in the EXE.
+No Python installation, account, internet connection, or website access is needed to use the tool. All supported firmware images and the EiBi schedule database are already embedded in the EXE.
 
 ## Features
 
@@ -25,6 +25,7 @@ No Python installation, account, internet connection, or website access is neede
 - Install a custom BIN at a selected flash address.
 - Make and restore complete flash backups.
 - Save and restore Settings separately from Memories and the EiBi database without changing firmware.
+- Upload the embedded EiBi schedule or delete only the EiBi database, with live progress and confirmation.
 - Reset the radio or erase the entire flash with a typed confirmation.
 - Follow live progress and diagnostic logs, with verification after every write.
 
