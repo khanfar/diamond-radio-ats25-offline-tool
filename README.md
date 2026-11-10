@@ -61,6 +61,12 @@ Open **Licenses & Info → HOW TO USE / ALL CASES** inside the application for c
 - [Diamond Radio ATS Mini firmware](https://github.com/khanfar/diamond-radio-ats-mini) — binary firmware releases and update information.
 - [Diamond Radio ATS Mini Offline Tool](https://github.com/khanfar/diamond-radio-ats-mini-offline-tool) — offline ATS Mini installation and maintenance.
 
+## Community
+
+- Telegram: https://t.me/+aftBqV_qRMlkZDVi
+- Facebook: https://www.facebook.com/share/g/1EpCchUdzj/
+- YouTube: https://www.youtube.com/@DiamondRadioOfficial
+
 ## Legal and third-party notices
 
 Diamond-specific source code is private. The application and bundled firmware are distributed as freeware. Third-party components retain their own licenses and copyright notices.
