@@ -1,0 +1,18 @@
+Diamond Radio ATS-25 Offline Tool and bundled Diamond Radio firmware
+Diamond-specific additions, visual identity, and product branding
+Copyright (c) 2026 M Khanfar
+
+This software is distributed as freeware. Permission is granted to use and
+redistribute unmodified binary releases free of charge. It may not be sold.
+No source-code license is granted for Diamond-specific modifications. Do not
+publish or distribute the private source tree.
+
+This notice applies only to Diamond-specific modifications and branding. It
+does not replace, remove, or restrict rights granted by third-party licenses.
+The original copyright and permission notices in the legal bundle remain part
+of the binary release materials.
+
+Diamond Radio names, logos, and visual identity are not licensed for use as
+branding for derivative products. The software is provided without warranty
+to the extent permitted by applicable law. Always make a full backup before
+firmware installation or maintenance.
