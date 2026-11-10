@@ -55,6 +55,12 @@ Full erase permanently removes firmware, settings, memories, and EiBi data. Keep
 
 Open **Licenses & Info → HOW TO USE / ALL CASES** inside the application for complete operating guidance.
 
+## Companion projects
+
+- [Diamond Radio ATS-25 USB PC Control](https://github.com/khanfar/diamond-radio-ats25-pc-control) — offline receiver control, decodes, favorites, and FT8 map.
+- [Diamond Radio ATS Mini firmware](https://github.com/khanfar/diamond-radio-ats-mini) — binary firmware releases and update information.
+- [Diamond Radio ATS Mini Offline Tool](https://github.com/khanfar/diamond-radio-ats-mini-offline-tool) — offline ATS Mini installation and maintenance.
+
 ## Legal and third-party notices
 
 Diamond-specific source code is private. The application and bundled firmware are distributed as freeware. Third-party components retain their own licenses and copyright notices.
