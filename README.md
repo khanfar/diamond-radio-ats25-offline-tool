@@ -5,14 +5,14 @@ Official offline Windows installer and maintenance tool for **Diamond Radio ATS-
 - Product and Diamond-specific modifications: **M Khanfar**
 - Distribution: **freeware**; Diamond-specific source code is not distributed
 - Official website: **[diamondradio.web.app/install.html](https://diamondradio.web.app/install.html)**
-- Current tool version: **1.1.0**
+- Current tool version: **1.2.0**
 - Bundled firmware: **Diamond Radio v1.1.1 BETA**
 
 ## Download
 
 Open **[Releases](https://github.com/khanfar/diamond-radio-ats25-offline-tool/releases/latest)** and choose:
 
-- **DiamondRadio-ATS25Tool-v1.1.0-Windows.zip** — recommended package with the EXE, usage information, and legal notices.
+- **DiamondRadio-ATS25Tool-v1.2.0-Windows.zip** — recommended package with the EXE, usage information, and legal notices.
 - **DiamondRadio-ATS25Tool.exe** — standalone Windows application.
 
 No Python installation, account, internet connection, or website access is needed to use the tool. All supported firmware images and the EiBi schedule database are already embedded in the EXE.

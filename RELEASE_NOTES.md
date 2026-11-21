@@ -1,23 +1,23 @@
-# Diamond Radio ATS-25 Offline Tool 1.1.0
+# Diamond Radio ATS-25 Offline Tool 1.2.0
 
-This tested update adds a completely offline EiBi Database Manager while retaining all installer, backup, restore, and maintenance functions from version 1.0.0.
+This release refreshes every bundled ATS-25 firmware image while retaining the complete offline installer, backup, restore, maintenance, and EiBi Manager functions.
 
-## New in 1.1.0
+## New in 1.2.0
 
-- **EiBi Manager tab** with the current broadcast schedule embedded directly in the application.
-- **9,541 station records**, schedule dated **October 4, 2026**.
-- **UPLOAD EiBi DATABASE** replaces the radio's schedule without requiring the website or an internet connection.
-- Live percentage and byte progress, followed by radio confirmation and automatic restart.
-- **DELETE DATABASE** removes only the EiBi schedule. Station memories, settings, and firmware are not changed.
-- Database integrity checking and clear compatibility guidance.
+- Updated **Diamond Radio v1.1.1 BETA** images for ILI9341, ST7789 Pro+ AIR, ILI9488 Mega, and Ultra.
+- On-radio **NAVTEX** decoding with channel presets, live spectrum and tone markers, adjustable tuning, message logging, and PC Control USB integration.
+- VHF AIR coverage updates for supported Pro+ AIR and Ultra hardware.
+- Additional radio-screen waterfall and 3D display choices.
+- Ultra NAVTEX display update corrected to prevent the repeated black flicker reported by testers.
+- Updated standalone firmware downloads match the images embedded in the EXE.
 
 ## Existing functions retained
 
-- Bundled Diamond Radio **v1.1.1 BETA** installation for ILI9341, ST7789, ILI9488, and Ultra display families.
 - Automatic full backup before bundled installation, with an explicit skip option.
 - Custom BIN installation at a user-selected address.
 - Full flash backup and restore.
 - Separate Settings and Memories/EiBi backup and restore.
+- Fully offline EiBi Manager with 9,541 embedded station records.
 - Reset, guarded full-flash erase, live logs, progress display, and write verification.
 
 ## Download
@@ -28,10 +28,10 @@ This tested update adds a completely offline EiBi Database Manager while retaini
 - **License ZIP:** bundled firmware, EiBi, and application notices.
 - **SHA256SUMS.txt:** hashes for checking every downloaded release file.
 
-## Use EiBi Manager
+## Use
 
-Connect the radio, select its COM port, and click **CONNECT**. Open **EiBi Manager**, then choose **UPLOAD EiBi DATABASE**. Keep USB and power connected until completion. The radio restarts automatically after a successful upload; open its EiBi page to browse the stations.
+Connect the radio, select its COM port, and click **CONNECT**. Make a full backup, select the exact display family, accept the license, and choose **INSTALL DIAMOND RADIO**. Keep USB and power connected until installation and verification finish.
 
-**DELETE DATABASE** affects only the EiBi schedule. You can upload the embedded database again at any time.
+For NAVTEX after installation, open the radio's decoder menu and select NAVTEX, or use Diamond PC Control over USB. No audio cable is required for radio-side or USB decoding. Accurate USB tuning, a suitable antenna, and a moderate receiver volume are important; adjust during an active transmission for stable lock and few errors.
 
-Version 1.1.0 was hardware-tested with EiBi upload and deletion. Older releases remain available. This repository contains binary releases and notices only; Diamond-specific source code is not distributed.
+Version 1.2.0 passed package integrity and frozen-executable self-tests. Its NAVTEX firmware was tested on ATS-25 and Ultra hardware. Older releases, including v1.1.0 and v1.0.0, remain available. This repository contains binary releases and notices only; Diamond-specific source code is not distributed.
